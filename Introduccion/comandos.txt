@@ -1,0 +1,16 @@
+
+// Para crear una carpeta es necesario usar el siguiente comando
+
+          mkdir <NombreCarpeta>
+
+
+// Para crear un archivo, lo siguiente, primero ingresar en la carpeta donde crearemos el archivo, usando:
+
+         cd <NombreCarpeta>
+
+         echo > <NombredeArchivo>
+
+
+         EXAMPLE: echo > requirements.txt
+
+         
